@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">EW4</string>
+    <string name="lbl_very_funny">အရမ္း ရီရတယ္</string>
+    <string name="lbl_funny">ရီရတယ္</string>
+    <string name="msg_no_more_joke">ဟာသမ်ား မရွိေတာ့ပါ</string>
+    <string name="lbl_love_the_joke">Love the Joke</string>
+    <string name="lbl_search">Search</string>
+    <string name="msg_search_jokes_guide">သင္ရွာေဖြလိုုေသာ ဟာသ အမ်ိဳးအစား သိုု့မဟုုတ္ ေရးသားသူ၏ နံမည္ျဖင့္ရွာေဖြနိုုင္ပါသည္</string>
+
+    <string name="linkedin">PADC - LinkedIn</string>
+    <string name="jobsearch">PADC - Job Search</string>
+    <string name="pulse">PADC - Pulse</string>
+    <string name="yokeshin">PADC - </string>
+    <string name="wonzin">PADC - </string>
+
+    <string name="lbl_register_me">Register Me!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_share">Share the Joke</string>
+
+    <!-- Home Screen Controls -->
+    <string name="lbl_previous_joke">အရင္ဟာ ျပပါ</string>
+    <string name="lbl_next_joke">ေနာက္တစ္ခု</string>
+
+    <string name="joke_one_title">အညီအမၽွ</string>
+    <string name="content_yokeshin">Let’s go back to the beginning. In 1994, Blizzard Entertainment released its real-time strategy game Warcraft: Orcs and Humans, in which orcs from the world of Draenor used a magical trans-dimensional portal to invade the human world of Azeroth. Its success led to two sequels – but it was not until a full decade later, with the emergence in 2004 of ‘massively multiplayer online role-playing game’ World of Warcraft, that the game would become a global phenomenon. Two years later, Blizzard partnered up with Legendary Pictures to work on the inevitable film version. Notorious video games adapter Uwe Boll put himself forward as director, but was swiftly rejected.</string>
+</resources>
